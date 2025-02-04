@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         /*
             Pseudocode:
-            Accepts users input
+            Accepts users input 
             match the user price with the product price.
             if the user amount is greater or equal to the product price: hence generate change.
             if the user amount is less than product price: an input statement requesting more money, till the price is complete.
